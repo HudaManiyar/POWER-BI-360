@@ -62,7 +62,7 @@ To address these challenges, AtliQ Hardware has mobilized a dedicated data analy
 -	Automatic data refresh using a personal gateway.
 
 ---
-Please check out the **Full Report** for Further Explanation!<br />
+Please check out the **[Full Report](https://github.com/HudaManiyar/POWER-BI-360/blob/main/Business_Insights_360.pdf)** for Further Explanation!<br />
 \
 Your Thoughts and Feedback are highly appreciated! :smile:<br />
 \
