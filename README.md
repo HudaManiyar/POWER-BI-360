@@ -6,7 +6,7 @@ AtliQ Hardware, a leading provider of computer hardware and peripherals globally
 
 To address these challenges, AtliQ Hardware has mobilized a dedicated data analytics team to develop a dynamic solution: the Business Insights 360 Power BI dashboard, which is designed to offer real-time, actionable insights crucial for informed decision-making.
 
-**Live Dashboard** <br />
+[Live Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiNmJlMzJjMmItMGNlMC00ODgxLTgxYjAtMzU3OThhMjkwNmQ0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) <br />
 
 
 **Tools Used:**
