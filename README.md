@@ -62,7 +62,8 @@ To address these challenges, AtliQ Hardware has mobilized a dedicated data analy
 -	Automatic data refresh using a personal gateway.
 
 
-**Full Report**
+Please check out the **Full Report** for Further Explanation!
 
 **Your Thoughts and Feedback are highly appreciated! :smile:**
+
 **LinkedIn**
