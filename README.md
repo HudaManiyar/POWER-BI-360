@@ -64,5 +64,5 @@ To address these challenges, AtliQ Hardware has mobilized a dedicated data analy
 
 **Full Report**
 
-**Your Thoughts and Feedback are highly appreciated!**
+**Your Thoughts and Feedback are highly appreciated! :smile:**
 **LinkedIn**
