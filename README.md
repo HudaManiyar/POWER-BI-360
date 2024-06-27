@@ -66,4 +66,3 @@ Please check out the **[Full Report](https://github.com/HudaManiyar/POWER-BI-360
 \
 Your Thoughts and Feedback are highly appreciated! :smile:<br />
 \
-**LinkedIn**
