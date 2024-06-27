@@ -57,7 +57,7 @@ To address these challenges, AtliQ Hardware has mobilized a dedicated data analy
   -	**Supply Chain View:** Improved inventory management by analysing Forecast Accuracy, Net Error, and Absolute Error trends, highlighting key customer and product demand       metrics for supply optimization.
   -	**Executive View:** Offers a comprehensive real-time dashboard overview of organizational performance, detailing revenue across divisions, customers, products, channels, and manufacturer insights for decisions.
 
-### 4. Deployment
+**4. Deployment**
 -	Reports published to Power BI services. 
 -	Automatic data refresh using a personal gateway.
 
