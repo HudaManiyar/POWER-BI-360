@@ -8,37 +8,37 @@ To address these challenges, AtliQ Hardware has mobilized a dedicated data analy
 
 **Live Dashboard**
 
-### Tools Used: 
-•	SQL
-•	Power BI Desktop
-•	Excel
-•	DAX language
-•	DAX Studio (for report optimization)
+**Tools Used:**
+-	SQL
+-	Power BI Desktop
+-	Excel
+-	DAX language
+-	DAX Studio (for report optimization)
 
-### Business Terms:
-•	Data analytics, Data warehouse, OLTP, OLAP 
-•	Star schema, Snowflake schema
-•	FY- Fiscal Year
-•	YTD - Year-to-date, YTG – Year-to-go
-•	Pre-invoice deductions, Post invoice deductions
-•	Net invoice sales, Gross sales, Net sales
-•	COGS- Cost of goods sales, Manufacturing costs, freight costs
-•	Gross margin, Gross Margin %, Gross Margin per Unit
-•	Net profit, Net profit %
-•	Sales quantity, Forecast Quantity
-•	Net Error, Absolute Error, Forecast Accuracy
+**Business Terms:**
+-	Data analytics, Data warehouse, OLTP, OLAP 
+-	Star schema, Snowflake schema
+-	FY- Fiscal Year
+-	YTD - Year-to-date, YTG – Year-to-go
+-	Pre-invoice deductions, Post invoice deductions
+-	Net invoice sales, Gross sales, Net sales
+-	COGS- Cost of goods sales, Manufacturing costs, freight costs
+-	Gross margin, Gross Margin %, Gross Margin per Unit
+-	Net profit, Net profit %
+-	Sales quantity, Forecast Quantity
+-	Net Error, Absolute Error, Forecast Accuracy
 
 ## KEY STEPS
 
-### 1. Data Collection and Integration
+**1. Data Collection and Integration**
 Data from MySQL (Facts and Dimensions) and Excel/CSV files (Targets and Market Share) was integrated into Power BI.
 Utilized Power Query (M Language) for effective data transformation.
 
-### 2. Data Modelling and Visualization
+**2. Data Modelling and Visualization**
 The project utilized the Snowflake Modelling Technique, connecting fact and dimension tables based on their relationships.
 Calculated columns and measures in Power BI, employing DAX functions such as DIVIDE and SUM, were implemented for driving visualizations across reports.
 
-### 3. Creating Reports
+**3. Creating Reports**
 The dashboard features a central Home page for intuitive navigation to various reports and support resources. 
 
 **Key Integrated Features:**
