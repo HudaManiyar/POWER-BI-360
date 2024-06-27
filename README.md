@@ -10,11 +10,11 @@ To address these challenges, AtliQ Hardware has mobilized a dedicated data analy
 
 
 **Tools Used:**
--	SQL
--	Power BI Desktop
--	Excel
--	DAX language
--	DAX Studio (for report optimization)
+- :white_check_mark:	SQL
+- :white_check_mark:	Power BI Desktop
+- :white_check_mark:	Excel
+- :white_check_mark:	DAX language
+- :white_check_mark:	DAX Studio (for report optimization)
 
 **Business Terms:**
 -	Data analytics, Data warehouse, OLTP, OLAP 
