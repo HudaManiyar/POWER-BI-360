@@ -59,11 +59,11 @@ To address these challenges, AtliQ Hardware has mobilized a dedicated data analy
 
 ### 4. Deployment
 -	Reports published to Power BI services. 
--	Automatic data refresh using a personal gateway.
+-	Automatic data refresh using a personal gateway.\
 
-
-Please check out the **Full Report** for Further Explanation!
-
-**Your Thoughts and Feedback are highly appreciated! :smile:**
-
-**LinkedIn**
+\
+Please check out the **Full Report** for Further Explanation!\
+\
+**Your Thoughts and Feedback are highly appreciated! :smile:**\
+\
+**LinkedIn**\
